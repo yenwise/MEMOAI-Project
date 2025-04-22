@@ -29,4 +29,4 @@ def transcribe_audio(audio_file_path):
 
 if __name__ == "__main__":
     text_result = transcribe_audio("voice_prompt.wav")
-    print("📝 Çözümlenen Metin:", text_result)
+    print("📝 Parsed Text:", text_result)
