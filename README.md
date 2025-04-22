@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/memoai-1.png" alt="MemoAI Banner" width="100%" />
+</p>
+
+
 # MemoAI 🎙️🧠  
 **AI-Powered Voice Note-Taking Assistant**  
 A concept demo built with FastAPI, Whisper, LangChain, and Streamlit.
