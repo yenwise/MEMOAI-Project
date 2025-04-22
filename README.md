@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/memoai-1.png" alt="MemoAI Banner" width="100%" />
+  <img src="memoai-1.png" alt="MemoAI Banner" width="100%" />
 </p>
 
 
