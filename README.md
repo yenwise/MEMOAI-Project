@@ -17,8 +17,8 @@ A concept demo built with FastAPI, Whisper, LangChain, and Streamlit.
 "Doctor appointment next Thursday at 10."
 "Watch The Tetris Movie."
 
--💡 MemoAI listens, transcribes, and automatically knows what to do:
-– Adds the appointment to your calendar
+- 💡 MemoAI listens, transcribes, and automatically knows what to do:
+- Adds the appointment to your calendar
 – Sorts the movie into your "To Watch" list
 – Reminds you at the right time
 
